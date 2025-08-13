@@ -9,7 +9,7 @@
 
 ## 🚀 ¿Qué es este sitio?
 
-Este sitio web fue creado especialmente para ayudarte a comprender los temas de **ciberseguridadl** desde tu formación como futuro **criminólogo**.  
+Este sitio web fue creado especialmente para ayudarte a comprender los temas de **ciberseguridad** desde tu formación como futuro **criminólogo**.  
 
 Hoy en día, gran parte del delito ocurre en el **ciberespacio**: extorsiones, fraudes, tráfico de información, ciberacoso, hackeos a instituciones. Como profesional de la justicia, necesitas saber cómo investigar, proteger evidencia digital y entender los riesgos tecnológicos.
 
@@ -98,3 +98,4 @@ cibercriminologia-uvaobregon/
 │
 
 └── README.md → Este archivo
+
