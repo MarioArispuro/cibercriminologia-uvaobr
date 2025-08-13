@@ -1,5 +1,5 @@
 # 🌐 CiberCriminología UVA Obregón  
-**Materia: Seguridad Cibernética y Ética**  
+**Materia: Seguridad Cibernética**  
 *Universidad Vizcaya de las Américas, Campus Obregón*
 
 > 🎓 Sitio educativo para estudiantes de Criminología que desean entender la ciberseguridad desde una perspectiva criminológica.  
@@ -96,4 +96,5 @@ cibercriminologia-uvaobregon/
 ├── css/ → Estilos visuales
 ├── img/ → Imágenes e infografías
 │
+
 └── README.md → Este archivo
