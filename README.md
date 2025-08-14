@@ -36,9 +36,9 @@ El contenido está organizado en 7 módulos, según el programa de la materia:
 | 7 | Herramientas para Análisis Digital |
 
 Además, encontrarás recursos útiles como:
-- 📚 [Glosario de términos](glosario.html) – Para entender palabras técnicas
-- 📽️ [Videos educativos](recursos/videos.html) – Explicaciones en video
-- 🔍 [Casos reales](casos/caso1.html) – Aplicación a investigaciones criminales
+- 📚 [Glosario de términos](https://marioarispuro.github.io/cibercriminologia-uvaobr/) – Para entender palabras técnicas
+- 📽️ [Videos educativos](https://marioarispuro.github.io/cibercriminologia-uvaobr/recursos/videos.html) – Explicaciones en video
+- 🔍 [Casos reales](https://marioarispuro.github.io/cibercriminologia-uvaobr/casos/caso1.html) – Aplicación a investigaciones criminales
 
 ---
 
@@ -121,4 +121,5 @@ Todo contenido se usa para formar criminólogos éticos, responsables y preparad
 
 
 **¡Bienvenido al mundo de la Seguridad Cibernética!**
+
 
