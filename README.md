@@ -74,28 +74,47 @@ Este es un proyecto educativo **abierto**. Si encuentras un error, tienes una su
 ## 📂 Estructura del repositorio
 cibercriminologia-uvaobregon/
 │
-├── index.html → Página principal
-├── glosario.html → Términos clave
-├── contacto.html → Información del profesor
+├── index.html               → Página principal
+├── glosario.html            → Términos clave
+├── contacto.html            → Información del profesor
 │
-├── modulos/ → Contenido por tema
-│ ├── modulo1.html
-│ ├── modulo2.html
-│ ├── modulo3.html
-│ ├── modulo4.html
-│ ├── modulo5.html
-│ ├── modulo6.html
-│ └── modulo7.html
+├── modulos/                 → Contenido por tema
+│   ├── modulo1.html         → Fundamentos de Seguridad de la Información
+│   ├── modulo2.html         → Estándares de Seguridad (ISO)
+│   ├── modulo3.html         → Seguridad de la Plataforma
+│   ├── modulo4.html         → Ciberseguridad y Ciberdefensa
+│   ├── modulo5.html         → Ethical Hacking
+│   ├── modulo6.html         → Esteganografía, Criptografía y Técnicas Anti-Forenses
+│   └── modulo7.html         → Herramientas para Análisis Digital
 │
-├── casos/ → Casos de estudio
-│ └── caso1.html
+├── casos/                   → Casos de estudio
+│   └── caso1.html           → Ataque de Ransomware a una Fiscalía
 │
-├── recursos/ → Videos, descargas
-│ └── videos.html
+├── recursos/                → Videos, descargas
+│   └── videos.html          → Videos educativos
 │
-├── css/ → Estilos visuales
-├── img/ → Imágenes e infografías
+├── css/                     → Estilos visuales
+├── img/                     → Imágenes e infografías
 │
+└── README.md                → Este archivo
 
-└── README.md → Este archivo
+---
 
+## 🛡️ Uso ético
+
+Este sitio tiene fines **exclusivamente educativos**.  
+No promueve ni autoriza actividades ilegales.  
+Todo contenido se usa para formar criminólogos éticos, responsables y preparados para el desafío del delito digital.
+
+---
+
+## 📧 Contacto
+
+**Profesor:** Mtro. Mario Arispuro  
+**Correo:** profemarioarispuro@gmail.com  
+**Asesorías:** Lunes, miércoles y viernes 10:00AM - 12:00 PM  
+
+
+---
+
+**¡Bienvenido al mundo de la CiberCriminología!**
