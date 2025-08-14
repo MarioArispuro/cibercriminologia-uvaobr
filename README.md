@@ -117,4 +117,4 @@ Todo contenido se usa para formar criminólogos éticos, responsables y preparad
 
 ---
 
-**¡Bienvenido al mundo de la CiberCriminología!**
+**¡Bienvenido al mundo de la Seguridad Cibernética!**
