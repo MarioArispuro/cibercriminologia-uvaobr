@@ -78,7 +78,7 @@ cibercriminologia-uvaobregon/
 ├── glosario.html            → Términos clave
 ├── contacto.html            → Información del profesor
 │
-├── modulos/                 → Contenido por tema
+├── modulos/
 │   ├── modulo1.html         → Fundamentos de Seguridad de la Información
 │   ├── modulo2.html         → Estándares de Seguridad (ISO)
 │   ├── modulo3.html         → Seguridad de la Plataforma
@@ -87,18 +87,16 @@ cibercriminologia-uvaobregon/
 │   ├── modulo6.html         → Esteganografía, Criptografía y Técnicas Anti-Forenses
 │   └── modulo7.html         → Herramientas para Análisis Digital
 │
-├── casos/                   → Casos de estudio
+├── casos/
 │   └── caso1.html           → Ataque de Ransomware a una Fiscalía
 │
-├── recursos/                → Videos, descargas
+├── recursos/
 │   └── videos.html          → Videos educativos
 │
 ├── css/                     → Estilos visuales
 ├── img/                     → Imágenes e infografías
 │
 └── README.md                → Este archivo
-
----
 
 ## 🛡️ Uso ético
 
@@ -113,7 +111,6 @@ Todo contenido se usa para formar criminólogos éticos, responsables y preparad
 **Profesor:** Mtro. Mario Arispuro  
 **Correo:** profemarioarispuro@gmail.com  
 **Asesorías:** Lunes, miércoles y viernes 10:00AM - 12:00 PM  
-
 
 ---
 
