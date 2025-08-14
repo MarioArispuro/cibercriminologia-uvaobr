@@ -97,6 +97,7 @@ cibercriminologia-uvaobregon/
 ├── img/                     → Imágenes e infografías
 │
 └── README.md                → Este archivo
+---
 
 ## 🛡️ Uso ético
 
@@ -113,5 +114,6 @@ Todo contenido se usa para formar criminólogos éticos, responsables y preparad
 **Asesorías:** Lunes, miércoles y viernes 10:00AM - 12:00 PM  
 
 ---
+
 
 **¡Bienvenido al mundo de la Seguridad Cibernética!**
