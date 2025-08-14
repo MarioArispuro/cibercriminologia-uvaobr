@@ -72,6 +72,8 @@ Este es un proyecto educativo **abierto**. Si encuentras un error, tienes una su
 ---
 
 ## 📂 Estructura del repositorio
+
+```
 cibercriminologia-uvaobregon/
 │
 ├── index.html               → Página principal
@@ -97,6 +99,8 @@ cibercriminologia-uvaobregon/
 ├── img/                     → Imágenes e infografías
 │
 └── README.md                → Este archivo
+```
+
 ---
 
 ## 🛡️ Uso ético
@@ -117,3 +121,4 @@ Todo contenido se usa para formar criminólogos éticos, responsables y preparad
 
 
 **¡Bienvenido al mundo de la Seguridad Cibernética!**
+
