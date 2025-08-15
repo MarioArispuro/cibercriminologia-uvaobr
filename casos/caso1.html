@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Caso 1: Ataque de Ransomware</title>
+  <link rel="stylesheet" href="../css/styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Caso Real: Ataque de Ransomware a una Fiscalía</h1>
+      <div class="regresar-card">        
+          <a href="../index.html">← Volver al inicio</a>
+        </div>
+  </header>
+
+  <main>
+    <section class="case">
+      <h2>📍 ¿Dónde ocurrió?</h2>
+      <p><strong>Fiscalía de Justicia del Estado de Sonora</strong>, 2023.</p>
+
+      <h2>🧨 ¿Qué pasó?</h2>
+      <p>Un correo de phishing infectó un equipo de la unidad de delitos cibernéticos. El malware se propagó por la red y cifró miles de expedientes digitales. Los atacantes exigieron 50 BTC (aprox. $100 millones MXN) para devolver el acceso.</p>
+
+      <h2>🔍 Cómo lo investigaron</h2>
+      <ul>
+        <li>Se aisló la red para evitar más daño.</li>
+        <li>Se usó <strong>Wireshark</strong> para analizar el tráfico previo al ataque.</li>
+        <li>Se recuperaron archivos desde <strong>backups</strong> offline.</li>
+        <li>Se rastreó el correo de origen: provenía de un dominio falso que imitaba al C4.</li>
+      </ul>
+
+      <h2>📉 Impacto</h2>
+      <ul>
+        <li>Parálisis parcial de labores durante 72 horas.</li>
+        <li>Pérdida de evidencia digital en 12 casos activos.</li>
+        <li>Daño a la imagen pública de la institución.</li>
+      </ul>
+
+      <h2>✅ Lecciones aprendidas</h2>
+      <ol>
+        <li>Capacitación constante en phishing para todo el personal.</li>
+        <li>Necesidad de backups automáticos y offline.</li>
+        <li>Implementar un SGSI (ISO 27001) para prevenir incidentes.</li>
+        <li>Crear un equipo de respuesta a ciberincidentes.</li>
+      </ol>
+
+      <div class="evidence">
+        <h3>📎 Evidencias digitales clave</h3>
+        <p>Los peritos encontraron:</p>
+        <ul>
+          <li>El correo tenía cabeceras falsificadas.</li>
+          <li>El malware se descargó desde un servidor en Rusia.</li>
+          <li>El USB de un agente fue usado para propagar el virus (insider involuntario).</li>
+        </ul>
+      </div>
+
+      <div class="reflection">
+        <h3>🤔 Reflexión para criminólogos</h3>
+        <p>Este caso muestra que el delito ya no es solo físico. Como futuros profesionales, deben estar preparados para investigar en entornos digitales, entender cómo se cometen estos delitos y colaborar con expertos en TI para reconstruir la evidencia.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Basado en eventos reales. Nombre de institución modificado para fines educativos.</p>
+    <p>Universidad Vizcaya de las Américas • Campus Obregón</p>
+  </footer>
+</body>
+</html>
